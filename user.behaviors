@@ -17,14 +17,11 @@
 
  ;; The editor tag is applied to all editors
  [:editor :lt.objs.editor/no-wrap]
- ;;[:editor :lt.objs.style/set-theme "ambiance"]
  [:editor :lt.objs.editor/line-numbers]
- [:editor :lt.plugins.vim/activate-vim]
 
  ;; For Presentation mode:
- ;;[:editor :lt.objs.style/font-settings "courier new" 12]
- ;;[:editor :lt.objs.style/set-theme "ambiance"]
- ;;[:app :lt.objs.style/set-skin "new-dark"]
+ [:editor :lt.objs.style/font-settings "courier new" 11]
+ [:editor :lt.objs.style/set-theme "ambiance"]
 
  ;; Here we can add behaviors to just clojure editors
  [:editor.clojure :lt.plugins.clojure/print-length 1000]

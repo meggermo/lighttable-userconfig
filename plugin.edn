@@ -5,12 +5,14 @@
  ;; Do not edit - :dependencies are auto-generated
 :dependencies {
 "CSS" "0.0.6",
- "Clojure" "0.1.0",
+ "Clojure" "0.1.1",
  "HTML" "0.0.2",
- "Javascript" "0.0.6",
+ "Javascript" "0.1.2",
  "Paredit" "0.0.4",
- "Python" "0.0.5",
+ "Python" "0.0.7",
  "Rainbow" "0.0.8",
- "Vim" "0.1.0"},
+ "Vim" "0.1.0",
+ "base16 themes" "0.1.0",
+ "gitlight" "0.0.9"},
  :author "TODO",
  :name "User"}
