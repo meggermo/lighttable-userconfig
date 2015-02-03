@@ -20,8 +20,8 @@
  [:editor :lt.objs.editor/line-numbers]
 
  ;; For Presentation mode:
- [:editor :lt.objs.style/font-settings "courier new" 11]
- [:editor :lt.objs.style/set-theme "ambiance"]
+ [:editor :lt.objs.style/font-settings "courier new" 14]
+ [:editor :lt.objs.style/set-theme "blackboard"]
 
  ;; Here we can add behaviors to just clojure editors
  [:editor.clojure :lt.plugins.clojure/print-length 1000]
